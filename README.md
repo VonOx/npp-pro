@@ -1,7 +1,7 @@
 # Notepad++ syntax highlighting and Auto Completion for .PRO (Config File for PTC Creo and Wildfire)
 
-Notepad++ syntax highlighting for .PRO (Config File for PTC Creo and Wildfire).  
-All known options Creo 2.0 (and previous release) are supported.
+Notepad++ syntax highlighting and Syntax Highlighting for .PRO files (Config File for PTC Creo and Wildfire).  
+All known options Creo 2.0 M100 (and previous release) are supported.
 
 ## Installation
 
