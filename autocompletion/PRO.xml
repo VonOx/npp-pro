@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
-<!-- Create by VonOx (https://github.com/VonOx) -->
+<!-- Create by Vincent KULAK (https://github.com/VonOx) -->
+<!-- Creo 2.0 M120 -->
 <!-- Important: The name of this file must match the name of the user defined language .PRO. -->
 <NotepadPlus>
     <AutoComplete language="PRO">
-        <!-- Unfortunately the space character doesn't work as startFunc character. So function paramter hints are currently not possible. -->
+        <!-- Unfortunately the space character doesn't work as startFunc character. So function parameter hints are currently not possible. -->
         <Environment ignoreCase="yes" startFunc="" stopFunc="" paramSeparator="" terminal="" additionalWordChar=""/>
         <!-- The following items should be alphabetically ordered. -->
 		<KeyWord name="18_PLUS" />
@@ -44,6 +45,7 @@
 		<KeyWord name="ACROBAT_READER" />
 		<KeyWord name="ACTIVE_MODEL_IN_ANALYSIS" />
 		<KeyWord name="ADAPTER_MODE" />
+		<KeyWord name="ADD_CLIP_COMMAND_IW_HPGL" />
 		<KeyWord name="ADD_JAVA_CLASS_PATH" />
 		<KeyWord name="ADD_LOWER_LEVEL_COMPS_TO_LAYER" />
 		<KeyWord name="ADD_OFFSET_TO_CONSTRAINT_COMP" />
@@ -160,10 +162,12 @@
 		<KeyWord name="ANIMATE_COMPONENT_PLACEMENT" />
 		<KeyWord name="ANIMATE_EXPLODE_STATES" />
 		<KeyWord name="ANIMATION_IMPORTED_PBK_DIR" />
+		<KeyWord name="ANLFEAT_UPDATE_ON_REDEFINE" />
 		<KeyWord name="ANNOT_ELEM_PARAMS_WITH_UNITS" />
 		<KeyWord name="ANSYS_12_1_LEGACY_ELEMS" />
 		<KeyWord name="ANSYS_SHELL181_INTEG_METHOD" />
 		<KeyWord name="ARC_RADIUS_LIMIT" />
+		<KeyWord name="AREATURN_MULTI_PASS_CONN_FIX" />
 		<KeyWord name="ASK_DESIGNATE_OWNERS" />
 		<KeyWord name="ASSEMBLE_MODULE_IN_REP" />
 		<KeyWord name="ASSEMBLE_PARENT_CONNECTOR" />
@@ -203,6 +207,7 @@
 		<KeyWord name="AUTO_ASSOCIATE_DIMENSIONS" />
 		<KeyWord name="AUTO_BACKUP_NEW_PLACEMNT_REFS" />
 		<KeyWord name="AUTO_BODY_FEATURES" />
+		<KeyWord name="AUTO_CLEAN_SHOWN_DIMENSIONS" />
 		<KeyWord name="AUTO_CONSTR_ALWAYS_USE_OFFSET" />
 		<KeyWord name="AUTO_CONSTR_OFFSET_TOLERANCE" />
 		<KeyWord name="AUTO_CONVERT_CABLES" />
@@ -294,6 +299,7 @@
 		<KeyWord name="CGM_USE_ENUM_IN_REAL_SPEC" />
 		<KeyWord name="CGM_USE_PENTABLE" />
 		<KeyWord name="CGM_USE_REVERSED_IEEE_FLOATS" />
+		<KeyWord name="CHANGE_ANNOTATION_COLOR_ON_SHOW" />
 		<KeyWord name="CHECK_EXTERNAL_FILES" />
 		<KeyWord name="CHECK_GHOST_FEATS" />
 		<KeyWord name="CHECK_GHOST_FEATS_AT_SAVE" />
@@ -405,6 +411,7 @@
 		<KeyWord name="CUSTOM_LOCALE_TITLE_FONT_CS3" />
 		<KeyWord name="CUSTOM_RAINBOW" />
 		<KeyWord name="CUSTOM_TEXT_SYMBOL_PALETTE_FILE" />
+		<KeyWord name="CUTCOM_ENTRY_EXIT_RESTORE" />
 		<KeyWord name="CUTCOM_ON_SPIRAL" />
 		<KeyWord name="CUTCOM_UTILS" />
 		<KeyWord name="CUTLINE_DGG_PATCH" />
@@ -534,6 +541,7 @@
 		<KeyWord name="DISPLAY_TOL_BY_1000" />
 		<KeyWord name="DISPLAY_Z_EXTENSION_LINES" />
 		<KeyWord name="DISP_COMP_NAME_IN_SYMB_REP" />
+		<KeyWord name="DISP_CREO2_PRE_M080_HOLE_NOTES" />
 		<KeyWord name="DISP_IN_OPEN_REP_CREATE" />
 		<KeyWord name="DISP_REGEN_SUCCESS_MSG" />
 		<KeyWord name="DISP_TRIMETRIC_DWG_MODE_VIEW" />
@@ -571,7 +579,6 @@
 		<KeyWord name="DM_SEARCH_PRIMARY_SERVER" />
 		<KeyWord name="DM_SECONDARY_FILE_EXTENSIONS" />
 		<KeyWord name="DM_SECONDARY_UPLOAD" />
-		<KeyWord name="DM_SIMPLE" />
 		<KeyWord name="DM_SPLIT_PROE_FILE" />
 		<KeyWord name="DM_SYNCHRONIZE_IN_BACKGROUND" />
 		<KeyWord name="DM_UPDATE_UNCONFIRMED_INSTANCES" />
@@ -598,6 +605,7 @@
 		<KeyWord name="DRILL_PARAMS_FILE" />
 		<KeyWord name="DRM_POLICY_SERVER" />
 		<KeyWord name="DRV_SRF_AXDEF_OPT" />
+		<KeyWord name="DRW_PROMPT_FOR_COMBINED_STATE" />
 		<KeyWord name="DSE_ADVANCED_UI" />
 		<KeyWord name="DTM_THRU_AXIS_ENT" />
 		<KeyWord name="DWG_EXPORT_FORMAT" />
@@ -676,6 +684,7 @@
 		<KeyWord name="ENABLE_AUTO_REGEN" />
 		<KeyWord name="ENABLE_AXIS_UNDIMMING" />
 		<KeyWord name="ENABLE_BBL_UNDO" />
+		<KeyWord name="ENABLE_CABLE_CHANNEL" />
 		<KeyWord name="ENABLE_CADRA_EXPORT" />
 		<KeyWord name="ENABLE_CAT2_SESSION_EXPORT" />
 		<KeyWord name="ENABLE_CAXIS_ROT_ON_4AXIS_MILL" />
@@ -802,6 +811,7 @@
 		<KeyWord name="FEM_ACCURACY_CONTROL" />
 		<KeyWord name="FEM_ALLOW_NAMED_MESH_FILES" />
 		<KeyWord name="FEM_ALLOW_STRUCT_TEMP_BOUNDARY" />
+		<KeyWord name="FEM_ALLOW_STRUCT_TEMP_POINTS" />
 		<KeyWord name="FEM_ALLOW_TINY_TETRAS" />
 		<KeyWord name="FEM_ALT_MESH" />
 		<KeyWord name="FEM_ANSYS_ANNOTATIONS" />
@@ -875,6 +885,7 @@
 		<KeyWord name="FILE_OPEN_PREVIEW_DEFAULT" />
 		<KeyWord name="FILE_OPEN_PREVIEW_DELAY" />
 		<KeyWord name="FILE_TIMESTAMP_FORMAT" />
+		<KeyWord name="FIND_NOT_INCL_IN_NON_EXIST_LYR" />
 		<KeyWord name="FINISH_PROFTPATH_NEW_ORDERING" />
 		<KeyWord name="FIX_140_PROJ_BROKEN_VIEWS" />
 		<KeyWord name="FIX_AUTOCAD_IGES_TEXT_SCALE" />
@@ -903,6 +914,7 @@
 		<KeyWord name="FIX_REFS_TO_INTERSECTIONS" />
 		<KeyWord name="FIX_REVERSED_RETR" />
 		<KeyWord name="FIX_REV_FLIP_OPEN_SKETCH" />
+		<KeyWord name="FIX_SMT_FORM_INTERSECT" />
 		<KeyWord name="FIX_SMT_FORM_INVIS_REF_COPY" />
 		<KeyWord name="FIX_TOPL_DISPL_OPT" />
 		<KeyWord name="FIX_TOPL_RGL_SPLIT" />
@@ -1113,6 +1125,7 @@
 		<KeyWord name="INTF3D_IN_IMPORT_MAKE_SOLID" />
 		<KeyWord name="INTF3D_IN_INCLUDE_ANNOTATIONS" />
 		<KeyWord name="INTF3D_IN_INCLUDE_ITEMS" />
+		<KeyWord name="INTF3D_IN_LOCK_REDISPLAY" />
 		<KeyWord name="INTF3D_IN_PLACE_ASSEMBLIES" />
 		<KeyWord name="INTF3D_IN_POLTXT" />
 		<KeyWord name="INTF3D_IN_REF_VOL_CONTAINMENT" />
@@ -1151,6 +1164,7 @@
 		<KeyWord name="INTF_CADDS_VERSION" />
 		<KeyWord name="INTF_FORCE_DTL_VIEW_DISP_LIST" />
 		<KeyWord name="INTF_GENERATE_LOG_FILE" />
+		<KeyWord name="INTF_IGNORE_SUFFIX_IN_PVZ" />
 		<KeyWord name="INTF_IN_ARCLENGTH_CRV_REPARAM" />
 		<KeyWord name="INTF_IN_ARCLENGTH_REPARAM" />
 		<KeyWord name="INTF_IN_ASSIGN_PNT_LABEL" />
@@ -1253,7 +1267,10 @@
 		<KeyWord name="LDA_NUM_ENTITIES_TO_MAP_VIEW" />
 		<KeyWord name="LDA_OVERALL_VIEW_MAP_TIME_LIMIT" />
 		<KeyWord name="LDA_PREFIX_IN_BASIC_DIM_BOX" />
+		<KeyWord name="LDA_SHOW_ENTITIES_DEFAULT" />
 		<KeyWord name="LDA_VIEW_MAP_TIME_LIMIT" />
+		<KeyWord name="LEGACY_INTERSECT_UPDATE_MODEL" />
+		<KeyWord name="LEGACY_UNITS_VALIDATE_RELATIONS" />
 		<KeyWord name="LET_PROE_RENAME_ILINK_OBJECTS" />
 		<KeyWord name="LET_PROE_RENAME_PDM_OBJECTS" />
 		<KeyWord name="LIGHT_WELD_HIDDEN_COLOR" />
@@ -1419,11 +1436,13 @@
 		<KeyWord name="MFG_TEMPLATE_DIR" />
 		<KeyWord name="MFG_TOOL_DATABASE" />
 		<KeyWord name="MFG_TOOL_DIALOG_SETUP_FILE" />
+		<KeyWord name="MFG_TOOL_DISPLAY_ANGLE_FIX" />
 		<KeyWord name="MFG_TOOL_FEED_SPEED" />
 		<KeyWord name="MFG_TOOL_PREVIEW_BY_PICK" />
 		<KeyWord name="MFG_TOOL_WITHOUT_SPEED" />
 		<KeyWord name="MFG_TRAJECTORY_PREVIEW" />
 		<KeyWord name="MFG_TRAJ_AUTO_MATERIAL_SIDE" />
+		<KeyWord name="MFG_TRN_PROF_MTRL_RMV_DIR_CHG" />
 		<KeyWord name="MFG_UDF_INFO_SETUP_FILE" />
 		<KeyWord name="MFG_USE_NEW_SRF_MILL" />
 		<KeyWord name="MFG_USE_REF_TREE" />
@@ -1477,6 +1496,7 @@
 		<KeyWord name="MP_SYSPARAM_UI" />
 		<KeyWord name="MRG_REF_MDL_ASK_USER_INPUT" />
 		<KeyWord name="MSG_TRANSLATION" />
+		<KeyWord name="MSR_REGEN_SPECIAL_REFS" />
 		<KeyWord name="MTRACK_DB_SIZE" />
 		<KeyWord name="MTRL_CONVERT_UNITS" />
 		<KeyWord name="MULTIPLE_SKELETONS_ALLOWED" />
@@ -1576,6 +1596,7 @@
 		<KeyWord name="OUTPUT_ROTATE_WITH_MULTAX_DATA" />
 		<KeyWord name="OUTPUT_SPINDL_OFF_FOR_TL_CHG" />
 		<KeyWord name="OUTPUT_STACK_ON_MODIFY" />
+		<KeyWord name="OUTPUT_SUBR_INST_CSYS_PPRINT" />
 		<KeyWord name="OUTPUT_TIP_IGNORE_TOOL_ORIENT" />
 		<KeyWord name="OUTPUT_TURN_RETRACT_FEED" />
 		<KeyWord name="OUT_OF_CONTEXT_REF_TO_INTERSECT" />
@@ -1665,6 +1686,7 @@
 		<KeyWord name="PIVOT_USE_HEIGHT" />
 		<KeyWord name="PLACEMENT_REP_BY_DEFAULT" />
 		<KeyWord name="PLACE_FIXVAL_DLG" />
+		<KeyWord name="PLANAR_XSEC_DEFAULT_TYPE" />
 		<KeyWord name="PLOTTER" />
 		<KeyWord name="PLOTTER_COMMAND" />
 		<KeyWord name="PLOTTER_HANDSHAKE" />
@@ -1673,6 +1695,7 @@
 		<KeyWord name="PLOT_FILE_DIR" />
 		<KeyWord name="PLOT_LIGHT_COLORS_BLACK" />
 		<KeyWord name="PLOT_LINESTYLE_SCALE" />
+		<KeyWord name="PLOT_MS_PRINT_OFFSET" />
 		<KeyWord name="PLOT_NAMES" />
 		<KeyWord name="PLOT_NAMES_WITH_SHEET" />
 		<KeyWord name="PLOT_PROCEED_DIALOG" />
@@ -1699,6 +1722,7 @@
 		<KeyWord name="PROCESS_ASM_RETRIEVE_ALL_COMPS" />
 		<KeyWord name="PROCESS_PART_LINK_PARMS" />
 		<KeyWord name="PROCESS_PENDING_LAYER_UPDATES" />
+		<KeyWord name="PROC_MAN_UPD_CUSTDRILL_ARC_FEED" />
 		<KeyWord name="PRODEVDAT" />
 		<KeyWord name="PROE_MEMORY_BUFFER_SIZE" />
 		<KeyWord name="PROFILE_OUTPUT_UTILS" />
@@ -1796,6 +1820,7 @@
 		<KeyWord name="READ_PARAMETERS_OF_EXCLUDED" />
 		<KeyWord name="READ_VDA_IN_PSET_AS_SPLINE" />
 		<KeyWord name="REAL_TIME_RENDERING_DISPLAY" />
+		<KeyWord name="RECORD_MAPKEY_COMMENT_TO_TRAIL" />
 		<KeyWord name="RECOVER_CG_REFS_ON_RETRIEVE" />
 		<KeyWord name="RECREATE_LODS_ON_BACKUP" />
 		<KeyWord name="REFIT_FOR_XSEC_OR_ZONE" />
@@ -1824,6 +1849,7 @@
 		<KeyWord name="REGEN_SIGN_TRF_PATT_COMP_INTF" />
 		<KeyWord name="REGEN_SIMP_RETRIEVE" />
 		<KeyWord name="REGEN_SOLID_BEFORE_SAVE" />
+		<KeyWord name="RELATIONS_ANG_EVAL_DIFF_CHECK" />
 		<KeyWord name="RELATIONS_NUM_CONST_UNITS" />
 		<KeyWord name="RELATIONS_UNITS_SENSITIVE" />
 		<KeyWord name="RELATION_FILE_EDITOR" />
@@ -1842,6 +1868,7 @@
 		<KeyWord name="RENAME_DRAWINGS_WITH_ASSEM" />
 		<KeyWord name="RENAME_DRAWINGS_WITH_OBJECT" />
 		<KeyWord name="RENAME_FILE_IN_WORKING_DIR_ONLY" />
+		<KeyWord name="RENAME_ON_DISK_CHANGES_UID" />
 		<KeyWord name="REPLACE_COMP_NAME_METHOD" />
 		<KeyWord name="REPLACE_COMP_NOTES_METHOD" />
 		<KeyWord name="REPLACE_HISTORY_RULE_ORDER" />
@@ -1874,6 +1901,7 @@
 		<KeyWord name="RIGHT_MOUSE_BUTTON_POPUP" />
 		<KeyWord name="RMDT_WORKPIECE_ALLOWANCE" />
 		<KeyWord name="RMV_MERGE_PLINS_IN_PATTERN" />
+		<KeyWord name="RMV_XSEC_UNLINKED_COSM_FEATS" />
 		<KeyWord name="ROOM_ROTATION_LOCK" />
 		<KeyWord name="ROTATE_POSTSCRIPT_PRINT" />
 		<KeyWord name="ROTATE_VIEW_ANGLE_FOR_Z_DRAG" />
@@ -1967,6 +1995,7 @@
 		<KeyWord name="SHOW_INT_SUPP_FEAT_REFS" />
 		<KeyWord name="SHOW_MODEL_DATUMS_DEFAULT_TYPE" />
 		<KeyWord name="SHOW_OBJECT_TYPE_IN_TASKBAR" />
+		<KeyWord name="SHOW_PLAY_W_RECOMPUTE_BUTTON" />
 		<KeyWord name="SHOW_PREVIEW_DEFAULT" />
 		<KeyWord name="SHOW_SELECTED_ITEM_ID" />
 		<KeyWord name="SHOW_SKETCH_DIMS_IN_FEATURE" />
@@ -2357,6 +2386,8 @@
 		<KeyWord name="SPIRAL_AUTO_CUTLINE" />
 		<KeyWord name="SPIRAL_SCAN_OFFSET_FROM_START" />
 		<KeyWord name="SPLIT_FOLLOW_CUT" />
+		<KeyWord name="STABILIZE_REP_PROMOTE_DRAWINGS" />
+		<KeyWord name="STABILIZE_REP_PROMOTE_DRAW_LOG" />
 		<KeyWord name="STANDARD_HOLE_NOTE_CORRECTION" />
 		<KeyWord name="STARTUP_CHECK_FOR_VISUALIZATION" />
 		<KeyWord name="START_APPMGR" />
@@ -2469,6 +2500,7 @@
 		<KeyWord name="TOOLKIT_DB_CHANNEL" />
 		<KeyWord name="TOOLKIT_REGISTRY_FILE" />
 		<KeyWord name="TOOL_COMMENT_PARAM_WITH_LOADTL" />
+		<KeyWord name="TOOL_MGR_SAVE_POCKET_IN_XML" />
 		<KeyWord name="TOOL_MOTION_LIST_LENGTH" />
 		<KeyWord name="TOOL_PATH_PREVIEW_DEFAULT" />
 		<KeyWord name="TOOL_SHRINKAGE_FOR_SIMUL" />
@@ -2476,6 +2508,7 @@
 		<KeyWord name="TOPOBUS_ENABLE" />
 		<KeyWord name="TOPOBUS_FORCE_REPAINT" />
 		<KeyWord name="TOPOBUS_QA_TIM_CONVERT" />
+		<KeyWord name="TOP_ASM_INS_MODE_W_ACTV_COMP" />
 		<KeyWord name="TRACE_THRU_SPLICE_CONNECTOR" />
 		<KeyWord name="TRAIL_DELAY" />
 		<KeyWord name="TRAIL_DIR" />
